@@ -1,0 +1,133 @@
+.main{
+    height: 800px;
+    background-color: rgb(142, 176, 21);
+}
+
+.one{
+    height: 400px;
+    background-color: rgb(226, 107, 107);
+    display: flex;
+    text-align: center;
+    
+}
+
+
+.two{
+    height: 400px;
+    background-color: rgb(85, 85, 222);
+    display: flex;
+    text-align: center;
+    padding: auto;
+}
+
+.oneA{
+    height: 400px;
+    width: 25%;
+    background-color: orange;
+}
+
+.oneB{
+    height: 400px;
+    width: 25%;
+    background-color: pink;
+}
+
+.oneC{
+    height: 400px;
+    width: 25%;
+    background-color: goldenrod;
+}
+
+.twoA{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(109, 109, 96);
+}
+.twoB{
+    height: 400px;
+    width: 20%;
+    background-color: blueviolet;
+    display: flex;
+}
+.twoC{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(69, 70, 90);
+}
+.twoD{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(48, 154, 159);
+}
+.twoE{
+    height: 400px;
+    width: 20%;
+    background-color: rgb(146, 106, 106);
+}
+
+.twoD1{
+    height: 200px;
+    width: 100%;
+    background-color: orangered;
+}
+
+.twoD2{
+    height: 200px;
+    width: 100%;
+    background-color: yellowgreen;
+    display: flex;
+}
+
+.twoD2A{
+    height: 200px;
+    width: 33.33%;
+    background-color: rgb(207, 116, 116);
+}
+.twoD2B{
+    height: 200px;
+    width: 33.33%;
+    background-color: yellow;
+}
+.twoD2C{
+    height: 200px;
+    width: 33.33%;
+    background-color: rgb(218, 194, 9);
+}
+
+.twoB1{
+    height: 400px;
+    width: 25%;
+    background-color: rgb(18, 101, 18);
+}
+.twoB2{
+    height: 400px;
+    width: 25%;
+    background-color: rgb(98, 39, 39);
+}
+.twoB3{
+    height: 400px;
+    width: 25%;
+    background-color: rgb(36, 36, 70);
+
+}
+.twoB4{
+    height: 400px;
+    width: 25%;
+    background-color: rgb(177, 168, 168);
+}
+
+.twoB4A{
+    height: 133.333px;
+    width: 100%;
+    background-color: aqua;
+}
+.twoB4B{
+    height: 133.333px;
+    width: 100%;
+    background-color: rgba(136, 36, 36, 0.719);
+}
+.twoB4C{
+    height: 133.33px;
+    width: 100%;
+    background-color: yellowgreen;
+}
